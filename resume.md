@@ -2,9 +2,9 @@
 
 ## Education
 
-University of Illinois at Chicago / Ph.D. Bioengineering
+- University of Illinois at Chicago / Ph.D. Bioengineering
 May 2009,  Chicago, IL
-University of Illinois at Urbana-Champaign / B.S. Electrical Engineering
+- University of Illinois at Urbana-Champaign / B.S. Electrical Engineering
 May 1999,  Urbana-Champaign, IL
 
 ## Positions Held
