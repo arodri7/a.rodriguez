@@ -1,20 +1,21 @@
+# Alexis Rodriguez, Ph.D.
 
-Education
+## Education
 
 University of Illinois at Chicago / Ph.D. Bioengineering
 May 2009,  Chicago, IL
 University of Illinois at Urbana-Champaign / B.S. Electrical Engineering
 May 1999,  Urbana-Champaign, IL
-ㅡ
-Positions Held
 
-Argonne National Laboratory / Computational Science 3
+## Positions Held
+
+- Argonne National Laboratory / Computational Science 3
 Data Science Learning (DSL)
 June  2021 - PRESENT,  Argonne, Illinois
-Argonne National Laboratory / Joint appointment
+- Argonne National Laboratory / Joint appointment
 Data Science Learning (DSL)
 2019 - June 2021,  Argonne, Illinois
-University of Chicago  / Senior Bioinformatics - Biomedical Consultant
+- University of Chicago  / Senior Bioinformatics - Biomedical Consultant
 Computer Science Department
 August  2017 - June 2021,  Chicago, Illinois
 University of Chicago / Senior Bioinformatics 
