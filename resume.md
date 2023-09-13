@@ -9,40 +9,44 @@ May 1999,  Urbana-Champaign, IL
 
 ## Positions Held
 
+- Argonne National Laboratory / Computational Science 4
+Data Science Learning (DSL)
+September 2023 - PRESENT,  Argonne, Illinois
 - Argonne National Laboratory / Computational Science 3
 Data Science Learning (DSL)
-June  2021 - PRESENT,  Argonne, Illinois
+June 2021 - August 2023,  Argonne, Illinois
 - Argonne National Laboratory / Joint appointment
 Data Science Learning (DSL)
 2019 - June 2021,  Argonne, Illinois
 - University of Chicago  / Senior Bioinformatics - Biomedical Consultant
 Computer Science Department
-August  2017 - June 2021,  Chicago, Illinois
+August 2017 - June 2021,  Chicago, Illinois
 - University of Chicago / Senior Bioinformatics 
 Computation Institute
-August  2013 - August 2017,  Chicago, Illinois
+August 2013 - August 2017,  Chicago, Illinois
 - University of Chicago / Senior Bioinformatics 
 Center for Research Informatics
-August  2011 - August 2013,  Chicago, Illinois
+August 2011 - August 2013,  Chicago, Illinois
 - University of Chicago / Business Analyst 
 Computation Institute
-August  2009 - August 2011,  Chicago, Illinois
+August 2009 - August 2011,  Chicago, Illinois
 - University of Chicago / Scientific programmer 
 Computation Institute
-August  2007 - August 2009,  Chicago, Illinois
+August 2007 - August 2009,  Chicago, Illinois
 - Argonne National Laboratory / Laboratory Graduate Student 
 Mathematics Computer Division
-August  2001 - August 2007,  Chicago, Illinois
+August 2001 - August 2007,  Chicago, Illinois
 - Motorola / Systems Engineer & Software developer 
 Customer Center for Systems Development
-July  1999 - December 2001,  Schaumburg, Illinois
+July 1999 - December 2001,  Schaumburg, Illinois
 
 
 ## Honors and Awards
 
-- Argonne National Laboratory, Graduate Scholarship award
-- SuperComputing Conference Poster award
-- MVP VA Presentation Award
+- Argonne National Laboratory, Graduate Scholarship award (2004, 2005, 2006)
+- SuperComputing Conference Poster award (2006)
+- MVP VA Presentation Award (2020, 2021)
+- Impact Argonne Award (2023)
 
 ## Funding
 
