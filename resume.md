@@ -106,6 +106,7 @@ F. Meyer, D. Paarmann, M. D'Souza, R. Olson, E. M. Glass, M. Kubal, T. Paczian, 
 
 ### Invited talks and posters 
 - 300 Billion Associations: Genetic Architecture of >2000 phenotypes in 658,000 individuals of diverse ancestries in the VA Million Veterans Program. 14th International Congress of Human Genetics, February 2023.
+- A. Wang, R. Madduri, J. Shen, A. Rodriguez, et al. A cross-ancestry meta-analysis identifies 451 susceptibility loci for prostate cancer and yields a genetic risk score effective in multiple populations. American Society of Human Genomics (ASHG) Conference [Board No. PB1005], October 2022.
 - Fei Chen, Ravi K. Madduri, Xin Sheng, Alex Rodriguez, et al. VA Million Veteran Program and PRACTICAL/ELLIPSE Consortium. Meta-analysis in more than 80,000 men of African ancestry identified nine novel variants associated with prostate cancer [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2021; 2021 Apr 10-15 and May 17-21. Philadelphia (PA): AACR; Cancer Res 2021;81(13_Suppl):Abstract nr LB011.
 - Genome-wide PheWAS in the VA MVP using DOE SuperComputing, MVP Science Virtual Meeting, September, 2020.
 - Optimization of GWAS algorithms for efficient population scale computing powers novel discovery with respect to varicose vein genetics, MVP Science Virtual Meeting, September, 2020.
