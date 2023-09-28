@@ -77,6 +77,7 @@ Role: Other Personnel
 ## Publications
 
 ### Refereed Journals
+- Wang A, Shen J, Rodriguez AA, Madduri R, Conti DV, and Haiman CA, et al. (2023) Characterizing prostate cancer risk through multi-ancestry genome-wide discovery of 187 novel risk variants. Nature Genetics
 - Chen F, Madduri RK, Rodriguez AA, et al. Evidence of Novel Susceptibility Variants for Prostate Cancer and a Multiancestry Polygenic Risk Score Associated with Aggressive Disease in Men of African Ancestry [published online ahead of print, 2023 Feb 27]. Eur Urol. 2023;S0302-2838(23)02561-7. doi:10.1016/j.eururo.2023.01.022
 - Levin, M.G., Huffman, J.E., Verma, A., Rodriguez, A.,  et al. Genetics of varicose veins reveals polygenic architecture and genetic overlap with arterial and venous disease. Nat Cardiovasc Res 2, 44–57 (2023). https://doi.org/10.1038/s44161-022-00196-5
 - Chen F, Darst BF, Madduri RK, Rodriguez, A., et al. Validation of a multi-ancestry polygenic risk score and age-specific risks of prostate cancer: A meta-analysis within diverse populations. Elife. 2022;11:e78304. Published 2022 Jul 8. doi:10.7554/eLife.78304
